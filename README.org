@@ -1,0 +1,10 @@
+* cl-shellwords
+
+Common Lisp library to escape strings for the shell, or split strings according to shell rules.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/jorams/cl-shellwords.git   |
+| commit  | 313576b  |
+| systems | cl-shellwords |
+|---------+-------------------------------------------|
+
